@@ -215,7 +215,6 @@
                                         <a href="http://roeowo123.dothome.co.kr/book_api/booksearch.html" target="_blank">더 보기</a>
                                     </div>                                  
                                 </div>
-                               
                             </div>
 
                             <div class="project_content"> <!-- 동물병원 리뉴얼 페이지----------->
