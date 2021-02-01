@@ -180,7 +180,7 @@
                                 </div>
                                 <p class="project_sub_title">#구현 사항</p>
                                 <p class="project_coment">반응형 웹페이지 구현을 위한 media query 이용</p>
-                                <p class="project_coment">media query를 이용하여 모바일 사이즈와 태블릿 사이즈에 따라 적응형과 반응형구현</p>    
+                                <p class="project_coment">media query를 이용하여 모바일 사이즈와 태블릿 사이즈에 따라 적응형과 반응형구현</p>   
                                 <div id="github">
                                     <a href="https://github.com/jsleemaster/git-practice" target="_blank">
                                         <img src="./images/GitHub-Mark-Light-64px.png"/>
@@ -193,7 +193,7 @@
                                 <div class="page_num"></div>
                                 <p class="project_content_title">카카오 API 구현</p>
                                 <div class="project_content_img">
-                                    <img src="./images/project1_api.png" alt="API이미지">
+                                    <img src="./images/project1_api.jpg" alt="API이미지">
                                 </div>
                                 <div class="moreback" onmouseenter="zoomIn('project1_api_more')" onmouseleave="zoomOut('project1_api_more')">
                                     <span class="moreicon">?</span>
@@ -204,12 +204,18 @@
                                 </div>
                                 <p class="project_sub_title">#구현 사항</p>
                                 <p class="project_coment">카카오 API를 이용한 책 검색 구현</p>
-                                <p class="project_coment">포토샵과 일러스트를 이용하여 로고 제작 및 폰트적용</p>    
-                                <div id="github">
+                                <p class="project_coment">포토샵과 일러스트를 이용하여 로고 제작 및 폰트적용</p>                                  
+                                <div class="project_button">
+                                    <div id="github">
                                     <a href="https://github.com/jsleemaster/Project1_api" target="_blank">
                                         <img src="./images/GitHub-Mark-Light-64px.png"/>
                                     </a> 
+                                    </div>
+                                    <div class="project_button1">
+                                        <a href="http://roeowo123.dothome.co.kr/book_api/booksearch.html" target="_blank">더 보기</a>
+                                    </div>                                  
                                 </div>
+                               
                             </div>
 
                             <div class="project_content"> <!-- 동물병원 리뉴얼 페이지----------->
