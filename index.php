@@ -297,7 +297,6 @@
                             <div> <!--메세지 리스트-->
                                 <?php include "./php/contact_list.php";?>
                             </div>
-            
                                 <button type="button" onclick="contentList('contact_list');" id="listbox">목록</button>
                                 <button type="button" onclick="contentList('contact_content'); check_input();" id="submitbox">제출하기</button>
                                 <button type="button" onclick="contentList('contact_content')" id="writebox">글쓰기</button>

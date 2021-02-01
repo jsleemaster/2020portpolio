@@ -100,8 +100,8 @@
 
 
         <section id="main">
-            <p id="main_title">반려동물과 함께 하는 <span>생각</span>과&nbsp;<span>행동</span></p>
-            <p id="sub_title">고객님과 반려동물의 건강을 최우선으로 생각하는 병원</p>
+            <p id="main_title">PHP와 Mysql을 이용하여<span>로그인</span>과&nbsp;<span>회원가입</span>구현</p>
+            <p id="sub_title">DBMS를 이용하여 정보를 확인,수정,추가할 수 있습니다.<br> 로그인,회원가입,진료예약을 추가하여 리뉴얼페이지를 만들었습니다.</p>
         </section>
 
 
